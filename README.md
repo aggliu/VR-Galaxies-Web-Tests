@@ -1,5 +1,5 @@
 # VR-Galaxies-Web-Tests
-Web-based 2D flythroughs vizualizing clusters of galaxies.
+Web-based flythroughs vizualizing clusters of galaxies.
 
 As of March 2021, some of these flythroughs can also be accessed at aggliu.github.io/GalaxyInteractives.
 
